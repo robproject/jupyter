@@ -1,0 +1,4 @@
+matplotlib==3.6.2
+numpy==1.23.5
+numpy_financial==1.0.0
+sympy==1.11.1
